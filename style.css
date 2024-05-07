@@ -1,0 +1,60 @@
+.vv  {
+ height: 700px;
+ width: 700px;
+ background-size: 1000px;
+
+}
+
+.card  {
+ display:inline-block
+ 
+ 
+}
+
+.lead {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-top: 60px;
+ margin-left: 150px;
+}
+.h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+   }
+.img {
+    margin-left: 150px;
+}
+.form {
+    margin: 50px;
+}
+.btn{
+    margin-top: 7px;
+} 
+
+ 
+ 
+ul a {
+    display: block;
+     
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ 
+.mp {
+    display: flex;
+    margin: 100;
+    margin-top: 5px;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+}
+.banner {
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-evenly;
+}
